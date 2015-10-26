@@ -1,7 +1,0 @@
-setup.cfg
-setup.py
-chickens/chickens.py
-chickens.egg-info/PKG-INFO
-chickens.egg-info/SOURCES.txt
-chickens.egg-info/dependency_links.txt
-chickens.egg-info/top_level.txt
