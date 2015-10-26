@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = '__chicken__',
-  packages = ['__chicken__'],
+  name = 'CHICKEN',
+  packages = ['CHICKEN'],
   version = '1.0',
   description = 'CHICKEN',
   author = 'Mark Scoble',
