@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'CHICKEN',
   packages = ['CHICKEN'],
-  version = '1.0',
+  version = '1.2',
   description = 'CHICKEN',
   author = 'Mark Scoble',
   author_email = 'scoble.mr@gmail.com',
